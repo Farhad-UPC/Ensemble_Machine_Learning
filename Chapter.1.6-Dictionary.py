@@ -21,53 +21,6 @@ print('----------------------------')
 dic3['a'] = 1
 print ('dic3[a] = 1 => ',dic3)
 print('----------------------------')
-
-#Dictionary
-#The values of a dictionary can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples
-dic1 = {1:"a",2:.258,3:"three",400:"b"}
-print ('dic1 = ',dic1)
-print('----------------------------')
-dic2 = {"a":19,"b":20,"c":16}
-print ('dic2 = ',dic2)
-print ('dic2[a] = ',dic2['a'])
-print('----------------------------')
-#print ('dic2[1:2] = ',dic2[1:2])
-dic3 = {}
-print ('dic3 = ',dic3)
-print('----------------------------')
-dic3[1] = "one"
-print ('dic3[1]= one => ',dic3)
-print('----------------------------')
-dic3[2] = "two"
-dic3[3] = "three"
-print ('dic3 = ',dic3)
-print('----------------------------')
-dic3['a'] = 1
-print ('dic3[a] = 1 => ',dic3)
-print('----------------------------')
-#Dictionary
-#The values of a dictionary can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples
-dic1 = {1:"a",2:.258,3:"three",400:"b"}
-print ('dic1 = ',dic1)
-print('----------------------------')
-dic2 = {"a":19,"b":20,"c":16}
-print ('dic2 = ',dic2)
-print ('dic2[a] = ',dic2['a'])
-print('----------------------------')
-#print ('dic2[1:2] = ',dic2[1:2])
-dic3 = {}
-print ('dic3 = ',dic3)
-print('----------------------------')
-dic3[1] = "one"
-print ('dic3[1]= one => ',dic3)
-print('----------------------------')
-dic3[2] = "two"
-dic3[3] = "three"
-print ('dic3 = ',dic3)
-print('----------------------------')
-dic3['a'] = 1
-print ('dic3[a] = 1 => ',dic3)
-print('----------------------------')
 dic3[1] = "four"
 print ('dic3[1]= one => ',dic3)
 print('----------------------------')
