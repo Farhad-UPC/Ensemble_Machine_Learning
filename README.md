@@ -15,3 +15,20 @@ Chapter 5: Graphical User Interfaces (In Progress)
 Chapter 6: Network Programming (In Progress)
 
 Chapter 7: Getting Started with Python Machine Learning (NUMPY, PANDAS, MATPLOTLIB, SEABORN, SciPy)
+
+Chapter 8: Statistics (In Progress)
+
+Chapter 9: Preprocessing (In Progress)
+
+chapter 10: Supervised Learning (In Progress)
+
+Chapter 11: Unsupervised Learning (In Progress)
+
+Chapter 12: Dimensionality Reduction (In Progress)
+
+Chapter 13: Reinforcement Learning (In Progress)
+
+Chapter 14: Neural Networks and Deep Learning (In Progress)
+
+Chapter 15: Project Samples (In Progress)
+
