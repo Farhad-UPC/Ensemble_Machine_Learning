@@ -14,7 +14,7 @@ Chapter 5: Graphical User Interfaces (In Progress)
 
 Chapter 6: Network Programming (In Progress)
 
-Chapter 7: Getting Started with Python Machine Learning (NUMPY, PANDAS, MATPLOTLIB, SEABORN, SciPy)
+Chapter 7: Getting Started with Python Machine Learning (NUMPY, PANDAS, MATPLOTLIB, SEABORN, SciPy) (In Progress)
 
 Chapter 8: Statistics (In Progress)
 
