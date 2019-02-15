@@ -70,3 +70,32 @@ plt.show()
 
 plt.pie(cars_produced,labels=cars_produced )
 plt.show()
+
+
+
+#Multiple Plot vs Subplot
+cars_produced_spain = [0.8, 0.90, 1.1, 1.99, 2.5, 3.72]
+plt.plot(year,cars_produced,ls='-',lw=2,marker='+',mew=8)
+plt.plot(year,cars_produced_spain,ls='--',lw=1)
+plt.title('Spain vs world_cars_produced')
+plt.xlabel('Year')
+plt.ylabel('cars_produced')
+plt.yticks([20,30,40,50,60,70,80],['20M', '30M', '40M', '50M' ,'60M', '70M', '80M',])
+plt.legend(['Spain','world'],loc='best')
+#plt.text(1980,40,'Iran–Iraq War',fontsize=15)
+plt.grid()
+plt.annotate("comment",xy=(2012,1.67) ,xytext=(2013,15.7), arrowprops=dict(facecolor='silver',width=4),fontsize=14)
+plt.show()
+
+
+plt.subplot(1,2,1)
+plt.plot(year, cars_produced)
+plt.title('Cars produced In The World')
+plt.subplot(1,2,2)
+plt.plot(year,cars_produced_spain)
+plt.title('Cars produced In The Spain')
+plt.savefig('myplot.jpg')
+%pwd
+#import os
+#print (os.getcwd())  # Prints the current working directory
+plt.show()
